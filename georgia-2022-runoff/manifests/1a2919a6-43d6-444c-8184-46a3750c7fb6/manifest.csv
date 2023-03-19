@@ -1,0 +1,27 @@
+Container,Batch Name,Number of Ballots
+Election Day,ICC-Election Day - 1,25
+Election Day,ICC-Election Day - 2,25
+Election Day,ICC-Election Day - 3,25
+Election Day,ICC-Election Day - 4,25
+Election Day,ICC-Election Day - 5,25
+Election Day,ICC-Election Day - 6,25
+Election Day,ICC-Election Day - 7,25
+Election Day,ICC-Election Day - 8,26
+Absentee by Mail,ICC - Absentee by Mail - 1,47
+Absentee by Mail,ICC - Absentee by Mail - 2,50
+Absentee by Mail,ICC - Absentee by Mail - 3,50
+Absentee by Mail,ICC - Absentee by Mail - 4,50
+Absentee by Mail,ICC - Absentee by Mail - 5,50
+Absentee by Mail,ICC - Absentee by Mail - 6,50
+Absentee by Mail,ICC - Absentee by Mail - 7,3
+Absentee by Mail,ICC - Absentee by Mail - 8,28
+Absentee by Mail,ICC - Absentee by Mail - 9,11
+Advance Voting,AV - Elections Office ICP 1 - 0,3481
+Election Day,ED - Southwest Franklin ICP 1 - 0,720
+Election Day,ED - Lavonia ICP 1 - 0,627
+Election Day,ED - Carnesville ICP 1 - 0,632
+Election Day,ED - Canon ICP 1 - 0,388
+Election Day,ED - Royston ICP 1 - 0,529
+Election Day,ED - West Franklin ICP 2 - 0,270
+Election Day,ED - Northeast Franklin ICP 1 - 0,815
+Provisional,ICC - Provisional - 1,2
